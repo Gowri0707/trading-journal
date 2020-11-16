@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
  import Pictwo from './Pictwo/Pictwo';
-// import App from './App';
+// import App from './App'; //temproarily commented
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
